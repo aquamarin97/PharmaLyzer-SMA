@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "language": "Türkçe",
+    "code": "tr",
+    "translator": "Mustafa Necati Haşimoğlu",
+    "last_update": "2025-02-06"
+  },
+  "app": {
+    "window_title": "PharmaLyser SMA",
+    "name": "PharmaLyser SMA",
+    "brand": "PharmaLine"
+  },
+  "buttons": {
+    "analyze": "Analiz Et",
+    "clear": "Temizle",
+    "import": "İçe Aktar",
+    "export": "Dışa Aktar"
+  },
+  "errors": {
+    "title": "Hata",
+    "unexpected": "Beklenmeyen bir hata oluştu.",
+    "unexpected_with_type": "Beklenmeyen bir hata oluştu:\n{type}: {msg}",
+    "license": {
+      "title": "Lisans Hatası",
+      "missing": "Lisans dosyası bulunamadı. Lütfen lisansı yükleyin.",
+      "invalid_saved": "Kayıtlı lisans geçersiz veya süresi dolmuş.",
+      "invalid_selected": "Geçersiz lisans dosyası seçildi."
+    },
+    "startup": {
+      "title": "Başlatma Hatası",
+      "failed": "Uygulama başlatılırken bir sorun oluştu."
+    }
+  },
+  "loading": {
+    "progress": "{p}%",
+    "messages": [
+      "Sistem başlatılıyor...",
+      "Arayüz hazırlanıyor...",
+      "Bileşenler yükleniyor...",
+      "Analiz modülleri hazırlanıyor...",
+      "Grafik motoru hazırlanıyor...",
+      "Son kontroller yapılıyor...",
+      "Neredeyse hazır...",
+      "Hazır!"
+    ]
+  },
+  "filters": {
+    "license_files": "Lisans Dosyaları (*.key)"
+  },
+  "plots": {
+    "regression": {
+      "title": "Regresyon",
+      "axis": {
+        "x": "fam_end_rfu",
+        "y": "hex_end_rfu"
+      },
+      "legend": {
+        "safe": "Güvenli Bölge",
+        "outlier": "Riskli Alan",
+        "fit": "Regresyon Doğrusu"
+      },
+      "hover": {
+        "fmt": "Hasta No: {patient_no}\nX: {x}\nY: {y}\nDurum: {status}"
+      },
+      "errors": {
+        "no_data": "Regresyon grafiği için veri yok."
+      }
+    }
+  },
+  "dragdrop": {
+    "ready": "Hazır: {file_name}",
+    "errors": {
+      "invalid_file": "Geçersiz dosya.",
+      "single_file_only": "Lütfen yalnızca bir dosya bırakın.",
+      "invalid_path": "Dosya yolu geçersiz.",
+      "extension": "Sadece .rdml dosyalarına izin veriliyor.",
+      "not_found": "Dosya bulunamadı.",
+      "validation_failed": "Dosya doğrulama sırasında hata oluştu."
+    }
+  },
+  "regression": {
+    "plot": {
+      "regression_line": "Regresyon Doğrusu",
+      "legend": {
+        "healthy": "Sağlıklı",
+        "carrier": "Taşıyıcı",
+        "uncertain": "Belirsiz"
+      },
+      "hover": {
+        "well_no": "Kuyu No: {well}"
+      }
+    }
+  },
+  "columns": {
+    "well_no": "Kuyu No",
+    "warning": "Uyarı",
+    "stat_ratio": "İstatistik Oranı",
+    "std_ratio": "Standart Oranı"
+  },
+  "warnings": {
+    "insufficient_dna": "Yetersiz DNA"
+  },
+  "license": {
+    "checking": "Lisans kontrol ediliyor...",
+    "valid": "Lisans doğrulandı ✓",
+    "not_found": "Lisans bulunamadı, lütfen seçin...",
+    "expired": "Lisansınızın süresi dolmuş. Lütfen yenileyin.",
+    "device_mismatch": "Bu lisans başka bir cihaza aittir.",
+    "select_title": "Lisans Dosyası Seçin"
+  }
+}
