@@ -13,7 +13,7 @@ venv.bak/
 app/services/analysis_steps/
 app/licensing/
 app/views/ui/ui.py
-
+final_design_v3_3.ui
 # Marka ve Tasarım Varlıkları
 assets/
 
