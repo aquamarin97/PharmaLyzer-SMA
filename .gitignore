@@ -9,7 +9,17 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Hassas Algoritmalar ve İş Mantığı
+app/services/analysis_steps/
+app/licensing/
+app/views/ui/ui.py
 
+# Marka ve Tasarım Varlıkları
+assets/
+
+# Lisans ve Anahtar Dosyaları
+*.key
+*.license
 # IDE
 .vscode/
 .idea/
@@ -19,11 +29,7 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
-
+.ui
 # Logs
 logs/
 *.log
-
-# Temp/output files
-folders.txt
-tree_yapisi_sonucu_sade.txt
