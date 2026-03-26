@@ -29,8 +29,8 @@ assets/
 # OS
 .DS_Store
 Thumbs.db
-.ui
+*.ui
 # Logs
 logs/
 *.log
-.spec
+*.spec
