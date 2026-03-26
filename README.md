@@ -179,5 +179,6 @@ Partial source code is shared for portfolio demonstration purposes only.
 
 - 🔬 MSc Biotechnology
 - 💻 Specializing in scientific software development and computational drug design
-📫 [mustafanecati184@gmail.com](mailto:mustafanecati184@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/mustafa-necati-haşimoğlu-4b4936223) | [Upwork](https://www.upwork.com/freelancers/~0194e609aca8e35e26?mp_source=share)
+- 📫 [mustafanecati184@gmail.com](mailto:mustafanecati184@gmail.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/mustafa-necati-haşimoğlu-4b4936223)
+- 🔗 [Upwork](https://www.upwork.com/freelancers/~0194e609aca8e35e26?mp_source=share)
